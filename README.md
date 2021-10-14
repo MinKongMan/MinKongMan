@@ -27,6 +27,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=daemyungmk)](https://solved.ac/daemyungmk)
 
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&animation=fadeIn&fontAlignY=38)
 
 <!--
 **MinKongMan/MinKongMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
