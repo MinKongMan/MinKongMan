@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinKongMan&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/MinKongMan)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:daemyungkk@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:daemyungkk@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-D14836?style=flat&logo=Instagram&logoColor=white)](mailto:daemyungkk@gmail.com)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Min%20Kwang's%20Git&fontSize=50&animation=fadeIn&fontAlignY=38)
 
