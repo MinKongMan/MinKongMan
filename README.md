@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:daemyungkk@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/hi_minkwang/?hl=ko)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-3b5998?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/daemyungmk)
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Min%20Kwang's%20Git&fontSize=50&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Min%20Kwang's%20Git&fontSize=30&animation=fadeIn&fontAlignY=38)
 
 ![MinKongMan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinKongMan&show_icons=true&theme=radical)
 
